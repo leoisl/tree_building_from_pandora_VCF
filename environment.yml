@@ -1,0 +1,12 @@
+name: bioperl
+channels:
+  - bioconda
+  - defaults
+  - conda-forge
+  - r
+dependencies:
+  - perl-bioperl
+  - perl-lyve-set
+  - tabix
+  - bcftools
+  - raxml
